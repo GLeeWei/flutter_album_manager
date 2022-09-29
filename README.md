@@ -22,7 +22,7 @@ Add the following statement in `Info.plist`
 ```
 
 ## Usage
-See [Example]()
+See [Example](./example)
 
 ```
 // Save to album.
