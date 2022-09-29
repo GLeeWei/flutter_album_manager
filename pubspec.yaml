@@ -39,8 +39,8 @@ flutter:
         pluginClass: AlbumManagerPlugin
       ios:
         pluginClass: AlbumManagerPlugin
-      macos:
-        pluginClass: AlbumManagerPlugin
+#      macos:
+#        pluginClass: AlbumManagerPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
