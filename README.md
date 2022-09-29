@@ -22,7 +22,7 @@ Add the following statement in `Info.plist`
 ```
 
 ## Usage
-See [Example](https://github.com/Samoy/image_save/tree/master/example)
+See [Example]()
 
 ```
 // Save to album.
